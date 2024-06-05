@@ -1,0 +1,15 @@
+AWS Systems Manager Resource 
+
+1) https://github.com/mihirbhatt4687/lambda-secret-rotate/blob/master/policy.json
+
+2) https://github.com/amuley11/IAMKeyRotation/blob/main/iam_policy.json
+
+3) https://github.com/aws-samples/aws-iam-access-key-auto-rotation/blob/main/CloudFormation/ASA-iam-key-auto-rotation-vpc-endpoints.yaml
+
+4) https://vilakshan29.medium.com/automating-aws-role-assumption-with-powershell-807b60721aac
+
+5) https://www.youtube.com/watch?v=ubMahR5EdlE
+
+6) https://www.youtube.com/watch?v=_rUbHj_tJbY
+
+ 
